@@ -1,7 +1,8 @@
 #include "shell.h"
 
 /**
- * forking_helper - the fork is used to create child process and execute command
+ * forking_helper - the fork is used to create
+ *child process and execute command
  *
  * @av: for commandline argument
  * Return: (1) on fail or (0) on success
